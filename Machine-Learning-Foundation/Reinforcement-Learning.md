@@ -104,6 +104,3 @@ Reinforcement learning can optimize how a robotic arm places goods in a warehous
 
 Reinforcement learning is a powerful approach where agents learn by interacting with environments, making decisions, and receiving feedback.  
 Through continuous training, agents can achieve **optimal policies** to perform complex tasks in robotics, automation, gaming, and beyond.
-
-© 2025 Oracle University  
-*Privacy / Do Not Sell My Info · Contact Us · Terms of Use · Cookie Preferences · Ad Choices*
