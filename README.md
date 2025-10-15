@@ -6,14 +6,13 @@ This repository serves as my personal learning record, summarizing key modules a
 ---
 
 ## 🧭 Table of Contents
-1. [AI Foundations](#ai-foundations)
-2. [Machine Learning Foundation](#machine-learning-foundation)
-3. [Deep Learning Foundations](#deep-learning-foundations)
-4. [Generative AI and LLM Foundations](#generative-ai-and-llm-foundations)
-5. [OCI AI Portfolio](#oci-ai-portfolio)
-6. [OCI AI Services](#oci-ai-services)
-7. [OCI Generative AI Services](#oci-generative-ai-services)
-8. [Practice Exam – OCI AI Foundations Associate Certification](#practice-exam--oci-ai-foundations-associate-certification)
+1. [AI Foundations](AI-Foundations).
+2. [Machine Learning Foundation](Machine-Learning-Foundation)
+3. [Deep Learning Foundations](Deep-Learning-Foundations)
+4. [Generative AI and LLM Foundations](Generative-AI-and-LLM-Foundations)
+5. [OCI AI Portfolio](OCI-AI-Portfolio)
+6. [OCI AI Services](OCI-AI-Services)
+7. [OCI Generative AI Services](OCI-Generative-AI-Services)
 
 ---
 
