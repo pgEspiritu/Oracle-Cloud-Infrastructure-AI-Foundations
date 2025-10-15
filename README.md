@@ -18,36 +18,42 @@ This repository serves as my personal learning record, summarizing key modules a
 
 ## 🧠 [AI Foundations](AI-Foundations)
 Covers the core concepts of **Artificial Intelligence**, including its principles, applications, and the distinctions between **AI**, **Machine Learning**, and **Deep Learning**.  
+
 This module builds the fundamental understanding of how AI technologies work and where they’re applied.
 
 ---
 
 ## 🤖 [Machine Learning Foundation](Machine-Learning-Foundation)
 Introduces the fundamentals of **Machine Learning**, focusing on **supervised**, **unsupervised**, and **reinforcement learning** techniques.  
+
 It explores how algorithms learn from data to make accurate predictions and decisions.
 
 ---
 
 ## 🧩 [Deep Learning Foundations](Deep-Learning-Foundations)
 Explores the structure and function of **neural networks** and their advanced architectures like **Convolutional Neural Networks (CNNs)** and **Sequence Models**.  
+
 This module emphasizes how deep learning powers applications such as image, video, and speech recognition.
 
 ---
 
 ## 🪄 [Generative AI and LLM Foundations](Generative-AI-and-LLM-Foundations)
 Focuses on **Generative AI** and **Large Language Models (LLMs)**, covering topics like **transformers**, **prompt engineering**, and **customizing LLMs with data**.  
+
 This module explains how modern AI systems generate text, images, and other creative outputs.
 
 ---
 
 ## 💼 [OCI AI Portfolio](OCI-AI-Portfolio)
 Provides an overview of **Oracle Cloud Infrastructure’s AI and ML services**, including **AI infrastructure**, **GPU superclusters**, and **responsible AI** practices.  
+
 It showcases OCI’s capabilities in supporting end-to-end AI and ML workflows.
 
 ---
 
 ## 🔊 [OCI AI Services](OCI-AI-Services)
 Introduces Oracle’s **prebuilt AI services** such as **Language**, **Speech**, **Vision**, and **Document Understanding**.  
+
 These services enable easy integration of AI features into applications without extensive model training.
 
 ---
@@ -70,7 +76,7 @@ Includes study materials and practice questions designed to prepare for the **Or
 ---
 
 ### 👨‍💻 Author
-**[Your Name]**  
+**Paolo Gio G. Espiritu**  
 Learning and exploring the intersection of **AI** and **Cloud Technologies**.
 
 ---
